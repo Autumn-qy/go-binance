@@ -3,8 +3,8 @@ package portfolio
 import (
 	"context"
 
-	"github.com/photon-storage/go-binance/v2/delivery"
-	"github.com/photon-storage/go-binance/v2/futures"
+	"github.com/Autumn-qy/go-binance/v2/delivery"
+	"github.com/Autumn-qy/go-binance/v2/futures"
 )
 
 type ChangeLeverageServiceCM struct {

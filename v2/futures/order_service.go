@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/photon-storage/go-binance/v2/common"
+	"github.com/Autumn-qy/go-binance/v2/common"
 )
 
 // CreateOrderService create order

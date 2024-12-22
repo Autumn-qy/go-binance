@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/photon-storage/go-binance/v2/delivery"
+	"github.com/Autumn-qy/go-binance/v2/delivery"
 )
 
 type GetCommissionRateService struct {
