@@ -1,4 +1,4 @@
-module github.com/photon-storage/go-binance/v2
+module github.com/Autumn-qy/go-binance/v2
 
 go 1.18
 
